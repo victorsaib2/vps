@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>VPS e Hospedagem Web com Alta Performance | Suporte 24h</title>
+  <meta name="description" content="Velocidade, estabilidade e suporte técnico real. Conheça nossa hospedagem VPS e WordPress com garantia e planos acessíveis." />
+  <link rel="canonical" href="https://seudominio.com/servidor-vps-web" />
+  <meta property="og:title" content="Servidores VPS e Hospedagem Premium" />
+  <meta property="og:description" content="Garanta alta performance com servidores VPS dedicados, hospedagem WordPress e suporte técnico de verdade." />
+  <meta property="og:url" content="https://seudominio.com/servidor-vps-web" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://seudominio.com/imagem-compartilhamento.jpg" />
+
+  <style>
+    :root {
+      --roxo-principal: #6A1B9A;
+      --roxo-secundario: #8E24AA;
+      --claro: #fdf8fd;
+      --cinza: #f1f1f1;
+      --escuro: #333;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: var(--escuro);
+      background-color: var(--claro);
+    }
+
+    nav {
+      background-color: var(--roxo-principal);
+      color: white;
+      padding: 10px 20px;
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      text-align: center;
+    }
+
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    header {
+      background: var(--roxo-principal);
+      color: #fff;
+      text-align: center;
+      padding: 60px 20px;
+    }
+
+    header h1 {
+      font-size: 2.8rem;
+      margin: 0;
+    }
+
+    .btn {
+      display: inline-block;
+      background: var(--roxo-secundario);
+      color: white;
+      padding: 15px 25px;
+      border: none;
+      border-radius: 6px;
+      text-decoration: none;
+      font-size: 1rem;
+      margin-top: 15px;
+      transition: background 0.3s ease;
+    }
+
+    .btn:hover {
+      background: #a239c1;
+    }
+
+    main, section {
+      max-width: 960px;
+      margin: auto;
+      padding: 30px 20px;
+    }
+
+    h2 {
+      color: var(--roxo-principal);
+      margin-top: 40px;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    .hero {
+      text-align: center;
+    }
+
+    .comparativo {
+      background-color: #f3e5f5;
+      padding: 20px;
+      border-radius: 8px;
+    }
+
+    .planos-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+    }
+
+    .plano {
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 20px;
+      background-color: white;
+    }
+
+    .testimonials, .faq {
+      background: #f3e5f5;
+      padding: 30px;
+      border-radius: 10px;
+    }
+
+    footer {
+      background-color: var(--cinza);
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9rem;
+    }
+
+    .social-icons a {
+      margin: 0 10px;
+      text-decoration: none;
+      font-size: 1.2rem;
+    }
+  </style>
+</head>
+<body>
+
+<nav aria-label="Menu principal">
+  <a href="#beneficios">Benefícios</a>
+  <a href="#planos">Planos</a>
+  <a href="#faq">FAQ</a>
+  <a href="#contato">Contato</a>
+</nav>
+
+<header>
+  <h1>Hospedagem VPS Premium</h1>
+  <p>Velocidade, segurança e suporte 24/7 com garantia de satisfação.</p>
+</header>
+
+<main>
+  <section class="hero">
+    <h2>Desempenho e estabilidade garantidos</h2>
+    <p>Infraestrutura global com uptime de 99,9% e planos com recursos dedicados a partir de <strong>R$ 14,99/mês</strong>.</p>
+    <a href="#planos" class="btn">Ver Planos</a>
+  </section>
+
+  <section id="beneficios">
+    <h2>Por que escolher nossos servidores?</h2>
+    <ul>
+      <li>Servidores otimizados com armazenamento NVMe ultrarrápido.</li>
+      <li>Recursos escaláveis conforme o crescimento do seu negócio.</li>
+      <li>Suporte técnico de verdade 24h, por chat, e-mail ou WhatsApp.</li>
+      <li>Certificado SSL vitalício incluído em todos os planos.</li>
+      <li>Instalação automática de WordPress, Joomla, Magento e mais.</li>
+    </ul>
+  </section>
+
+  <section id="planos">
+    <h2>Planos que cabem no seu projeto</h2>
+    <div class="planos-grid">
+      <div class="plano">
+        <h3>Hospedagem WordPress</h3>
+        <p>A partir de <strong>R$ 14,99/mês</strong></p>
+        <p>Ideal para blogs e pequenas lojas.</p>
+      </div>
+      <div class="plano">
+        <h3>VPS Dedicado</h3>
+        <p>A partir de <strong>R$ 49,99/mês</strong></p>
+        <p>Alta performance para sistemas robustos.</p>
+      </div>
+      <div class="plano">
+        <h3>Windows / Linux</h3>
+        <p>Suporte para ASP.NET, PHP, Node.js, Python e muito mais.</p>
+      </div>
+    </div>
+    <a href="#contato" class="btn">Contratar Agora</a>
+  </section>
+
+  <section class="comparativo">
+    <h2>Comparativo de Planos</h2>
+    <table width="100%" border="1" cellspacing="0" cellpadding="10">
+      <thead>
+        <tr>
+          <th>Recursos</th>
+          <th>WordPress</th>
+          <th>VPS Dedicado</th>
+          <th>Windows/Linux</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Espaço SSD/NVMe</td>
+          <td>10 GB</td>
+          <td>80 GB</td>
+          <td>100 GB</td>
+        </tr>
+        <tr>
+          <td>Transferência mensal</td>
+          <td>100 GB</td>
+          <td>Ilimitada</td>
+          <td>Ilimitada</td>
+        </tr>
+        <tr>
+          <td>Acesso Root</td>
+          <td>Não</td>
+          <td>Sim</td>
+          <td>Sim</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section class="testimonials">
+    <h2>O que dizem nossos clientes</h2>
+    <p><em>"Depois da migração para VPS, meu site carrega em menos de 1 segundo!"</em> – Lucas M.</p>
+    <p><em>"A equipe de suporte realmente entende do que fala. Excelente!"</em> – Renata F.</p>
+  </section>
+
+  <section class="faq" id="faq">
+    <h2>Dúvidas Frequentes</h2>
+    <h3>Tem garantia de devolução?</h3>
+    <p>Sim! Você pode testar por 30 dias com reembolso total.</p>
+    <h3>Fazem migração gratuita?</h3>
+    <p>Sim, nossa equipe migra seu site sem custo extra.</p>
+    <h3>Os planos incluem SSL?</h3>
+    <p>Sim, todos os planos incluem certificado SSL gratuito e vitalício.</p>
+  </section>
+
+  <section id="contato">
+    <h2>Pronto para começar?</h2>
+    <p>Fale agora mesmo com nossa equipe de especialistas e tire todas as suas dúvidas:</p>
+    <a href="https://central.dokehost.com.br/aff.php?aff=90" class="btn">Entre em Contato</a>
+  </section>
+</main>
+
+<footer>
+  <p>&copy; 2025 - Todos os direitos reservados. Sua hospedagem com suporte real e desempenho de verdade.</p>
+  <div class="social-icons">
+    <a href="https://facebook.com" target="_blank" rel="noopener">Facebook</a> |
+    <a href="https://instagram.com" target="_blank" rel="noopener">Instagram</a> |
+    <a href="https://wa.me/5511999999999" target="_blank" rel="noopener">WhatsApp</a>
+  </div>
+</footer>
+
+</body>
+</html>
