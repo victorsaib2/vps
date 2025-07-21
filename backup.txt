@@ -8,7 +8,7 @@
   <link rel="canonical" href="https://seudominio.com/servidor-vps-web" />
   <meta property="og:title" content="Servidores VPS e Hospedagem Premium" />
   <meta property="og:description" content="Garanta alta performance com servidores VPS dedicados, hospedagem WordPress e suporte técnico de verdade." />
-  <meta property="og:url" content="https://seudominio.com/servidor-vps-web" />
+  
   <meta property="og:type" content="website" />
   <meta property="og:image" content="https://seudominio.com/imagem-compartilhamento.jpg" />
 
@@ -150,7 +150,7 @@
   <section class="hero">
     <h2>Desempenho e estabilidade garantidos</h2>
     <p>Infraestrutura global com uptime de 99,9% e planos com recursos dedicados a partir de <strong>R$ 14,99/mês</strong>.</p>
-    <a href="#planos" class="btn">Ver Planos</a>
+    <a href="https://hostinger.com.br/?REFERRALCODE=1VICTOR444" class="btn">Ver Planos</a>
   </section>
 
   <section id="beneficios">
@@ -182,7 +182,7 @@
         <p>Suporte para ASP.NET, PHP, Node.js, Python e muito mais.</p>
       </div>
     </div>
-    <a href="#contato" class="btn">Contratar Agora</a>
+    <a href="https://hostinger.com.br/?REFERRALCODE=1VICTOR444" class="btn">Contratar Agora</a>
   </section>
 
   <section class="comparativo">
